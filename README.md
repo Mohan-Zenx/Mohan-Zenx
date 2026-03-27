@@ -52,14 +52,6 @@ Bringing designs to life with clean code, smooth interactions, and smart automat
 
 ---
 
-## 📈 GitHub Stats
-
-![Mohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohan-Zenx&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan-Zenx&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mohan-Zenx&theme=radical&hide_border=true)
-
----
 
 ## 🚀 What I Build
 ```
