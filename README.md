@@ -3,7 +3,7 @@
 ![Followers](https://img.shields.io/github/followers/Mohan-Zenx?label=Follow&style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=Mohan-Zenx&label=Profile%20Views&color=0e75b6&style=flat)
 
-## 👋 Hello, I'm Mohan...!
+## 👋 Hello, I'm Mohan.
 
 I'm a passionate **Full Stack Developer & AI Enthusiast** who loves building responsive,
 user-centric web applications and intelligent AI-powered systems.
