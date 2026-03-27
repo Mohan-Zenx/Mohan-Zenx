@@ -82,17 +82,14 @@ Bringing designs to life with clean code, smooth interactions, and smart automat
 - 🌐 Full Stack AI-Powered Applications
 - 🔌 Advanced API Integrations & Microservices
 
----
 
 ---
 
 <p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1500&color=00F5FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=%22The+best+way+to+predict+the+future+is+to+invent+it.%22;%E2%80%94+Alan+Kay" alt="Quote"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7D716&center=true&vCenter=true&width=800&lines=%22The+best+way+to+predict+the+future+is+to+invent+it.%22;—+Alan+Kay" alt="Quote" />
 </p>
 
----
+
 
 ---
 
