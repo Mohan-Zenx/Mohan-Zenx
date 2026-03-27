@@ -85,7 +85,7 @@ Bringing designs to life with clean code, smooth interactions, and smart automat
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=2000&color=FF6FD8&background=00000000&center=true&vCenter=true&width=750&lines=%F0%9F%92%A1+%22The+best+way+to+predict+the+future+is+to+invent+it.%22;%E2%80%94+Alan+Kay" alt="Alan Kay Quote" />
 </p>
 
 ---
