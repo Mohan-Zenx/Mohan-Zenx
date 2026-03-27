@@ -1,9 +1,9 @@
-# 🌟 Mohanraj Girimoorthi - Frontend Developer Portfolio
+# 🌟 Mohaneyy..!! - Frontend Developer Portfolio
 
 ![Followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social) 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat)
 
-## 👋 Hello, I'm Mohanraj Girimoorthi!
+## 👋 Hello, I'm Mohan...!
 
 I'm a passionate **Frontend Developer** who loves building responsive, user-centric web applications.  
 Bringing designs to life with clean code and smooth interactions is what excites me the most! 🚀
