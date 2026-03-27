@@ -50,17 +50,6 @@ Bringing designs to life with clean code, smooth interactions, and smart automat
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
----
-
-
-## 🚀 What I Build
-```
-🌐 Full Stack Web Apps     →   React + Node.js + Express + REST APIs
-🤖 AI Chatbots             →   Gemini API + LLM + Prompt Engineering
-🔗 RAG Systems             →   LangChain + Vector DB + Document Q&A
-⚡ Workflow Automation     →   n8n + API Integration + Custom Agents
-🎨 Beautiful UIs           →   Material UI + Bootstrap + Responsive Design
-```
 
 ---
 
@@ -85,9 +74,8 @@ Bringing designs to life with clean code, smooth interactions, and smart automat
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2000&color=F85D7F&background=1F1F2E&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%22The+best+way+to+predict+the+future+is+to+invent+it.%22;%E2%80%94+Alan+Kay" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" />
 </p>
-
 
 
 ---
