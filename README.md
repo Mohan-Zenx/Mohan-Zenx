@@ -84,9 +84,13 @@ Bringing designs to life with clean code, smooth interactions, and smart automat
 
 ---
 
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=2000&color=FF6FD8&background=00000000&center=true&vCenter=true&width=750&lines=%F0%9F%92%A1+%22The+best+way+to+predict+the+future+is+to+invent+it.%22;%E2%80%94+Alan+Kay" alt="Alan Kay Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1500&color=F7D716&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%22The+best+way+to+predict+the+future+is+to+invent+it.%22;%E2%80%94+Alan+Kay" alt="Quote" />
 </p>
+
+---
 
 ---
 
